@@ -1,0 +1,14 @@
+layout_spectrum: 0.9769824924878776
+typography_spectrum: 0.04054945078678429
+color:
+  brandStrength: 0.25191090628504753
+  lightness: 0.9006612300872803
+  saturation: 0.7892340223770589
+  rhythmicContrast: 0.07093651220202446
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: silentfactory
