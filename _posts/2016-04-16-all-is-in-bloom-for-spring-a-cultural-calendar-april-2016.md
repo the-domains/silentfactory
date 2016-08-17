@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-17T14:40:59.960Z'
+datePublished: '2016-08-17T14:43:06.705Z'
 sourcePath: _posts/2016-04-16-all-is-in-bloom-for-spring-a-cultural-calendar-april-2016.md
 inFeed: true
-isBasedOnUrl: >-
-  http://thecoffeetographer.com/spring-culture-tribeca-netflix-flaked-lic-flea-kappi-cafe-coffee-blogger-april-2016/
-hasPage: false
+hasPage: true
 keywords:
   - coffee
   - roasters
@@ -21,7 +19,7 @@ author:
   - name: cde
     url: 'http://thecoffeetographer.com/author/chermelle/'
     avatar: {}
-dateModified: '2016-08-17T14:40:59.410Z'
+dateModified: '2016-08-17T14:43:06.269Z'
 title: >-
   All is in Bloom for Spring, A Cultural Calendar: April, 2016 - the
   coffeetographer
@@ -41,6 +39,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: all-is-in-bloom-for-spring-a-cultural-calendar-april-2016/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
