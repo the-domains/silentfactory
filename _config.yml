@@ -12,5 +12,11 @@ color:
     - '#160600'
 layout_spectrum: 0.9769824924878776
 name: silentfactory
+navigation:
+  - name: >-
+      All is in Bloom for Spring, A Cultural Calendar: April, 2016 - the
+      coffeetographer
+    id: d0c886bf-975b-4613-98d7-34ad01a2eb18
+    type: content
 title: Random Works
 description: by Lionel Riley
