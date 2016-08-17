@@ -1,4 +1,3 @@
-layout_spectrum: 0.9769824924878776
 typography_spectrum: 0.04054945078678429
 color:
   brandStrength: 0.25191090628504753
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.9769824924878776
 name: silentfactory
+title: Random Works
